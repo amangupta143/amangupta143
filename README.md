@@ -48,10 +48,10 @@
 <!-- Top Projects List -->
 </br>
 <h2>Top Projects</h2>
-<p align="left">
-  <a href="https://github.com/amangupta143/cpp-learning-journey"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=cpp-learning-journey&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="cpp-learning-journey"></a>
-  <a href="https://github.com/amangupta143/drum-kit"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=drum-kit&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="drum-kit"></a>
-  <a href="https://github.com/amangupta143/amangupta143"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=amangupta143&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="amangupta143"></a>
+<p style="display: grid; grid-template-columnss: 33% 33% 33%;">
+  <a href="https://github.com/amangupta143/cpp-learning-journey"><img style="grid-column: 1/2;" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=cpp-learning-journey&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="cpp-learning-journey"></a>
+  <a href="https://github.com/amangupta143/drum-kit"><img style="grid-column: 2/3;" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=drum-kit&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="drum-kit"></a>
+  <a href="https://github.com/amangupta143/amangupta143"><img style="grid-column: 3/4;" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=amangupta143&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="amangupta143"></a>
   </br>
 
   
@@ -66,9 +66,10 @@
 </br>
 <h2>Current Stats</h2>
 
-<div style="display: flex; justify-content: space-between;">
-    <img width="51.3%" src="https://github-readme-streak-stats.herokuapp.com?user=amangupta143&border_radius=0&card_width=494&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0" alt="GitHub Streak" />
-    <img width="48.2%" src="https://github-readme-stats.vercel.app/api?username=amangupta143&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false"/>
+<div style="display: grid; grid-template-columns: 49% 49%;">
+  <div>
+    <img style="grid-column: 1/2;" src="https://github-readme-streak-stats.herokuapp.com?user=amangupta143&border_radius=0&card_width=494&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0" alt="GitHub Streak" />
+    <img style="grid-column: 2/3; align: right;" src="https://github-readme-stats.vercel.app/api?username=amangupta143&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false"/>
 </div>
 
 
