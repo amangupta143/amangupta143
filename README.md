@@ -49,9 +49,9 @@
 </br>
 <h2>Top Projects</h2>
 <p>
-  <a href="https://github.com/amangupta143/cpp-learning-journey"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=cpp-learning-journey&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="cpp-learning-journey"></a>
-  <a href="https://github.com/amangupta143/drum-kit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=drum-kit&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="drum-kit"></a>
-  <a href="https://github.com/amangupta143/amangupta143"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=amangupta143&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="amangupta143"></a>
+  <a href="https://github.com/amangupta143/Data-Structures-and-Algorithms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Data-Structures-and-Algorithms&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Data Structures and Algorithms"></a>
+  <a href="https://github.com/amangupta143/cpp-learning-journey"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=cpp-learning-journey&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="C++ learning journey"></a>
+  <a href="https://github.com/amangupta143/drum-kit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=drum-kit&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Drum Kit"></a>
   </br>
 
   
