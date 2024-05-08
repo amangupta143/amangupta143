@@ -79,7 +79,9 @@
 
 ![Aman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=amangupta143&custom_title=Aman's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-![](https://komarev.com/ghpvc/?username=amangupta143&style=flat&color=05122A)
+![GitHub followers](https://img.shields.io/github/followers/amangupta143?style=flat&logo=github&color=05122A)
+![Profile Views](https://komarev.com/ghpvc/?username=amangupta143&style=flat&labelolor=05122A&color=05122A)
+
 
 
 <!--
