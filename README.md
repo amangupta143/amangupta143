@@ -44,6 +44,24 @@
   <img alt="Canva" src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva">
 </p>
 
+<!-- Licenses & certifications -->
+</br>
+<h2>Licenses & certifications</h2>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_100_100/0/1635534378870/stanford_university_logo?e=1723680000&v=beta&t=bHN8MaPgmCmORyKVBl_dQG6GYFAxXMphgWMu1Mk4OGs"/>](https://www.stanford.edu/)
+**Machine Learning Specialization** \
+[**Stanford University**](https://www.stanford.edu/)  • Completed May 4, 2024\
+Skills: `Linear Regression` `Logistic Regression` `Artificial Neural Network` `Decision Trees`
+`Recommender Systems` `Tensorflow` `Xgboost` `Collaborative Filtering`
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQHQYa-3EY_aaQ/company-logo_200_200/0/1630633790917/university_of_california_at_san_diego_logo?e=1723680000&v=beta&t=X_5Qx4h6UBPAShe291vknG4p8tGYC79r2en8cDoLtAQ"/>](https://ucsd.edu/)
+**Data Structures and Algorithms Specialization** \
+[**University of California San Diego**](https://ucsd.edu/) • In progress \
+Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `String` `Graph Algorithms` `Algorithm Design` `Software Testing` `Debugging` `Priority Queue` `BST` `Hash Table` `List` `Stack`
+`Suffix Tree` `KMP Algorithm`
+
+<br>
+
 
 <!-- Top Projects List -->
 </br>
@@ -82,9 +100,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/amangupta143?style=flat&logo=github&color=05122A)
 ![Profile Views](https://komarev.com/ghpvc/?username=amangupta143&style=flat&labelolor=05122A&color=05122A)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
 
 
 
