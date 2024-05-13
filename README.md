@@ -48,7 +48,7 @@
 </br>
 <h2>Licenses & certifications</h2>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_100_100/0/1635534378870/stanford_university_logo?e=1723680000&v=beta&t=bHN8MaPgmCmORyKVBl_dQG6GYFAxXMphgWMu1Mk4OGs"/>](https://www.stanford.edu/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1723680000&v=beta&t=LPfySBrOZL3Abme80Rn3zZ_amSM3HFU8l65TpWwBmjk"/>](https://www.stanford.edu/)
 **Machine Learning Specialization** \
 [**Stanford University**](https://www.stanford.edu/)  • Completed May 4, 2024\
 Skills: `Linear Regression` `Logistic Regression` `Artificial Neural Network` `Decision Trees`
