@@ -6,15 +6,19 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amangupta143/)
 
 <!-- Short Bio -->
+<!-- </samp> for  -->
 <p>Welcome to my profile! </br> I'm an <b>AI enthusiast</b> currently building my skills in <b>Machine Learning</b> and <b>Deep Learning.</b> In addition to AI, I'm also diving into <b>Data Structures and Algorithms</b> to strengthen my foundational knowledge.</p>
 
 <!-- Tech Stack -->
 </br>
 <h2>Tech Stack</h2>
+<!-- <img align="right" width="40%" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/> -->
 <h3>Programming Languages</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
   <img alt="C" src="https://img.shields.io/badge/C-05122A?logo=c&style=flat">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-05122A?logo=cplusplus&style=flat">
+  <img src="https://img.shields.io/badge/Shell%20Script-05122A?style=flat&logo=gnu-bash&logoColor=white" alt="Shell script">
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-05122A?logo=cplusplus&style=flat">
 </p>
 
@@ -25,6 +29,7 @@
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-05122A?style=flat&logo=Pandas">
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-05122A?style=flat">
   <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-05122A?style=flat&logo=Scikit-learn">
+  <img alt="Static Badge" src="https://img.shields.io/badge/OpenCV-05122A?style=flat&logo=OpenCV">
 </p>
 
 <h3>Databases and Cloud Hosting</h3>
@@ -32,6 +37,7 @@
   <img alt="Github Pages" src="https://img.shields.io/badge/Github%20Pages-05122A?style=flat&logo=Github">
   <img alt="MySql" src="https://img.shields.io/badge/MySql-05122A?style=flat&logo=MySql">
   <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-05122A.svg?style=flat&logo=Replit">
+  <img src="https://img.shields.io/badge/AWS%20Amplify-05122A?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">
 </p>
 
 <h3>Software and Tools</h3>
@@ -41,7 +47,14 @@
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=Jupyter">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code">
   <img alt="Neovim" src="https://img.shields.io/badge/Neovim-05122A?style=flat&logo=Neovim">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Atom-05122A?style=flat">
   <img alt="Canva" src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva">
+  <img alt="Medium" src="https://img.shields.io/badge/Medium-05122A?style=flat&logo=Medium">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Google%20Colab-05122A?style=flat&logo=Google%20Colab">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Notion-05122A?style=flat&logo=Notion">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-05122A?style=flat&logo=Leetcode">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Codeforces-05122A?style=flat&logo=codeforces">
+  <img alt="Static Badge" src="https://img.shields.io/badge/StackOverflow-05122A?style=flat&logo=StackOverflow">
 </p>
 
 <!-- Licenses & certifications -->
@@ -97,10 +110,14 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
 
 ![Aman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=amangupta143&custom_title=Aman's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-![GitHub followers](https://img.shields.io/github/followers/amangupta143?style=flat&logo=github&color=05122A)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
+![Static Badge](https://img.shields.io/badge/Show%20some%20%E2%9D%A4%EF%B8%8F%20by%20%E2%AD%90%20repositories%20you%20find%20helpful!%20-05122A)
+![GitHub followers](https://img.shields.io/github/followers/amangupta143?style=flat&logo=github&color=05122A&labelColor=05122A)
 ![Profile Views](https://komarev.com/ghpvc/?username=amangupta143&style=flat&labelolor=05122A&color=05122A)
 
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
+
 
 
 
