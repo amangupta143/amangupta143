@@ -12,6 +12,7 @@
 <!-- Tech Stack -->
 </br>
 <h2>Tech Stack</h2>
+
 <!-- <img align="right" width="40%" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/> -->
 <h3>Programming Languages</h3>
 <p>
@@ -56,6 +57,29 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Codeforces-05122A?style=flat&logo=codeforces">
   <img alt="Static Badge" src="https://img.shields.io/badge/StackOverflow-05122A?style=flat&logo=StackOverflow">
 </p>
+
+<!-- <table>
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,py,c,java,matlab,bash&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Cloud and Deployment</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=docker,jenkins,kubernetes,aws,linux&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Machine Learning</strong></td>
+	<td><img height=40 src="https://skillicons.dev/icons?i=opencv,tensorflow,sklearn&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Version Control</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Software and Tools</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=replit,notion,anaconda,neovim,vscode,md&theme=dark"></td>
+</tr>
+</table>  -->
 
 <!-- Licenses & certifications -->
 </br>
@@ -118,7 +142,7 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
-![Static Badge](https://img.shields.io/badge/Show%20some%20%E2%9D%A4%EF%B8%8F%20by%20%E2%AD%90%20repositories%20you%20find%20helpful!%20-05122A)
+![Static Badge](https://img.shields.io/badge/Star%20%E2%AD%90%20some%20repositories%20you%20find%20helpful!%20-05122A)
 ![GitHub followers](https://img.shields.io/github/followers/amangupta143?style=flat&logo=github&color=05122A&labelColor=05122A)
 ![Profile Views](https://komarev.com/ghpvc/?username=amangupta143&style=flat&labelolor=05122A&color=05122A)
 
