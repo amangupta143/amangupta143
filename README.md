@@ -149,13 +149,13 @@
 </br>
 <h2>Licenses & certifications</h2>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1723680000&v=beta&t=LPfySBrOZL3Abme80Rn3zZ_amSM3HFU8l65TpWwBmjk"/>](https://www.stanford.edu/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1747267200&v=beta&t=kZ8X9pPVphvzZJFXKyNVU-taqJUmX9QCE7TEFDF9isg"/>](https://www.stanford.edu/)
 **Machine Learning Specialization** \
 [**Stanford University**](https://www.stanford.edu/)  • Completed May 4, 2024\
 Skills: `Linear Regression` `Logistic Regression` `Artificial Neural Network` `Decision Trees`
 `Recommender Systems` `Tensorflow` `Xgboost` `Collaborative Filtering`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQHQYa-3EY_aaQ/company-logo_200_200/0/1630633790917/university_of_california_at_san_diego_logo?e=1723680000&v=beta&t=X_5Qx4h6UBPAShe291vknG4p8tGYC79r2en8cDoLtAQ"/>](https://ucsd.edu/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C560BAQHQYa-3EY_aaQ/company-logo_200_200/company-logo_200_200/0/1630633790917/university_of_california_at_san_diego_logo?e=1747267200&v=beta&t=-wF9JNI07WX7WfPjDkFvK8fgxXx2X9xzj-9AtgcPSSk"/>](https://ucsd.edu/)
 **Data Structures and Algorithms Specialization** \
 [**University of California San Diego**](https://ucsd.edu/) • In progress \
 Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `String` `Graph Algorithms` `Algorithm Design` `Software Testing` `Debugging` `Priority Queue` `BST` `Hash Table` `List` `Stack`
@@ -208,7 +208,6 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
-![Static Badge](https://img.shields.io/badge/Star%20%E2%AD%90%20some%20repositories%20you%20find%20helpful!%20-05122A)
 ![GitHub followers](https://img.shields.io/github/followers/amangupta143?style=flat&logo=github&color=05122A&labelColor=05122A)
 ![Profile Views](https://komarev.com/ghpvc/?username=amangupta143&style=flat&labelolor=05122A&color=05122A)
 
