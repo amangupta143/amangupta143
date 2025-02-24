@@ -157,14 +157,14 @@ I'm an **AI enthusiast** with a passion for solving complex problems through mac
 <h2>🎓 Certifications & Education</h2>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1747267200&v=beta&t=kZ8X9pPVphvzZJFXKyNVU-taqJUmX9QCE7TEFDF9isg"/>](https://www.stanford.edu/)
-**Machine Learning Specialization** \
-[**Stanford University**](https://www.stanford.edu/)  • Completed May 4, 2024\
+**Machine Learning Specialization** <a href="https://www.coursera.org/account/accomplishments/specialization/4KR86D382LWB" style="color: #ffffff; text-decoration: none;">🔗</a>\
+**Stanford University** • Completed May 4, 2024\
 Skills: `Linear Regression` `Logistic Regression` `Artificial Neural Network` `Decision Trees`
 `Recommender Systems` `Tensorflow` `Xgboost` `Collaborative Filtering`
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C560BAQHQYa-3EY_aaQ/company-logo_200_200/company-logo_200_200/0/1630633790917/university_of_california_at_san_diego_logo?e=1747267200&v=beta&t=-wF9JNI07WX7WfPjDkFvK8fgxXx2X9xzj-9AtgcPSSk"/>](https://ucsd.edu/)
 **Data Structures and Algorithms Specialization** \
-[**University of California San Diego**](https://ucsd.edu/) • In progress \
+**University of California San Diego** • In progress \
 Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `String` `Graph Algorithms` `Algorithm Design` `Software Testing` `Debugging` `Priority Queue` `BST` `Hash Table` `List` `Stack`
 `Suffix Tree` `KMP Algorithm`
 
@@ -175,11 +175,11 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
 </br>
 <h2>🚀 Featured Projects</h2>
 <p>
-  <a href="https://github.com/amangupta143/Sign-Language-Recognition-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Sign-Language-Recognition-System&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=10" alt="Sign Language Recognition System"></a>
+  <a href="https://github.com/amangupta143/Sign-Language-Recognition-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Sign-Language-Recognition-System&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=true&icon_color=E8EDF3&show_icons=false&border_radius=10" alt="Sign Language Recognition System"></a>
   <a href="https://github.com/amangupta143/Student-Performance-Prediction">
-	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Student-Performance-Prediction&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=10" alt="Student Performance Prediction System"></a>
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Student-Performance-Prediction&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=true&icon_color=E8EDF3&show_icons=false&border_radius=10" alt="Student Performance Prediction System"></a>
   <a href="https://github.com/amangupta143/Password-Generator">
-	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Password-Generator&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=10" alt="Secure Password Generator">
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Password-Generator&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=true&icon_color=E8EDF3&show_icons=false&border_radius=10" alt="Secure Password Generator">
   </a>
   </br>
 
