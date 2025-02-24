@@ -1,7 +1,7 @@
-<h1>Hi there 👋, I'm Aman Gupta.</h1>
+<h1>Hi there 👋, I'm Aman Gupta</h1>
 
 <!-- Header Links -->
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://bento.me/amangupta143)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://amangupta.me)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/amangupta143)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amangupta143/)
 
@@ -9,12 +9,19 @@
 
 <!-- Short Bio -->
 <!-- </samp> for  -->
-<p>Welcome to my profile! </br> I'm an <b>AI enthusiast</b> currently building my skills in <b>Machine Learning</b> and <b>Deep Learning.</b> In addition to AI, I'm also diving into <b>Data Structures and Algorithms</b> to strengthen my foundational knowledge.</p>
+## 🧠 About Me
+
+I'm an **AI enthusiast** with a passion for solving complex problems through machine learning and deep learning. Currently focusing on:
+
+- 🤖 Building expertise in **Machine Learning** and **Deep Learning**
+- 📊 Developing projects with real-world applications
+- 🧮 Strengthening my foundation in **Data Structures and Algorithms**
+- 💻 Exploring new technologies and methodologies in AI
 
 
 <!-- Tech Stack -->
 </br>
-<h2>Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 
 <div>
 	<p style="display: inline-block;">
@@ -147,7 +154,7 @@
 
 <!-- Licenses & certifications -->
 </br>
-<h2>Licenses & certifications</h2>
+<h2>🎓 Certifications & Education</h2>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1747267200&v=beta&t=kZ8X9pPVphvzZJFXKyNVU-taqJUmX9QCE7TEFDF9isg"/>](https://www.stanford.edu/)
 **Machine Learning Specialization** \
@@ -166,13 +173,13 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
 
 <!-- Top Projects List -->
 </br>
-<h2>Top Projects</h2>
+<h2>🚀 Featured Projects</h2>
 <p>
-  <a href="https://github.com/amangupta143/Data-Structures-and-Algorithms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Data-Structures-and-Algorithms&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Data Structures and Algorithms"></a>
-  <a href="https://github.com/amangupta143/Diabetes-Prediction-KNN">
-	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Diabetes-Prediction-KNN&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Diabetes-Prediction-KNN"></a>
-  <a href="https://github.com/amangupta143/BigMart-Sales-Prediction">
-	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=BigMart-Sales-Prediction&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="BigMart-Sales-Prediction">
+  <a href="https://github.com/amangupta143/Sign-Language-Recognition-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Sign-Language-Recognition-System&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=10" alt="Sign Language Recognition System"></a>
+  <a href="https://github.com/amangupta143/Student-Performance-Prediction">
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Student-Performance-Prediction&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=10" alt="Student Performance Prediction System"></a>
+  <a href="https://github.com/amangupta143/Password-Generator">
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Password-Generator&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=10" alt="Secure Password Generator">
   </a>
   </br>
 
@@ -185,15 +192,11 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
 
 <!-- Current Stats card -->
 </br>
-<h2>Current Stats</h2>
+<h2>📈 GitHub Stats</h2>
 
 <div>
-<a href="https://github.com/amangupta143">
-      <img alt="Aman's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=amangupta143&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
-    </a>
-  <a href="https://github.com/amangupta143">
-<img src="https://github-readme-stats.vercel.app/api?username=amangupta143&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=414&card_height=195"/>
-    </a>
+	<a href="https://github.com/amangupta143"><img alt="Aman's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=amangupta143&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195&hide_border=true"/></a>
+	<a href="https://github.com/amangupta143"><img src="https://github-readme-stats.vercel.app/api?username=amangupta143&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=true&card_width=414&card_height=195"/></a>
 </div>
 
 
@@ -201,9 +204,9 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
 <!-- Activity Graph card -->
 </br>
 </br>
-<h2>Activity Graph</h2>
+<h2>📊 Activity Graph</h2>
 
-![Aman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=amangupta143&custom_title=Aman's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Aman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=amangupta143&custom_title=Aman's%20Contribution%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
