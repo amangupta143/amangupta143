@@ -199,7 +199,12 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
 	<a href="https://github.com/amangupta143"><img src="https://github-readme-stats.vercel.app/api?username=amangupta143&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=true&card_width=414&card_height=195"/></a>
 </div>
 
+<!--
+</br>
+<h2>👨‍💻 LeetCode Stats</h2>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/amangupta_143?theme=transparent&ext=activity&width=834)
+-->
 
 <!-- Activity Graph card -->
 </br>
