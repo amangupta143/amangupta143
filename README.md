@@ -18,10 +18,6 @@ I'm an **AI enthusiast** with a passion for solving complex problems through mac
 - 🧮 Strengthening my foundation in **Data Structures and Algorithms**
 - 💻 Exploring new technologies and methodologies in AI
 
-## ⚡ Stats
-
-I joined GitHub **4** years ago and since then I have pushed **529** commits, opened **11** issues, submitted **102** PRs, received **24** stars across **29** personal projects and contributed to **1** public repositories.
-
 
 <!-- Tech Stack -->
 </br>
@@ -196,7 +192,10 @@ Skills: `Data Structure` `Algorithms` `Np-Completeness` `Dynamic Programming` `S
 
 <!-- Current Stats card -->
 </br>
-<h2>📈 GitHub Stats</h2>
+
+## ⚡ Stats
+
+I joined GitHub **4** years ago and since then I have pushed **529** commits, opened **11** issues, submitted **102** PRs, received **24** stars across **29** personal projects and contributed to **1** public repositories.
 
 <div>
 	<a href="https://github.com/amangupta143"><img alt="Aman's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=amangupta143&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195&hide_border=true"/></a>
