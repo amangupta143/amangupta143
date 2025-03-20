@@ -18,9 +18,9 @@ jobs:
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
-        git config user.name amangupta143
-        git config user.email amangupta562005@outlook.com
-        git add .
-        git commit -m "Update README"
-        git push
+          git config user.name 'amangupta143'
+          git config user.email 'amangupta562005@outlook.com'
+          git add .
+          git commit -m "Update README"
+          git push https://${{ secrets.USER_TOKEN }}@github.com/amangupta143/amangupta143.git
         fi
